@@ -4,7 +4,7 @@
 
 
 
-![](https://ftp.bmp.ovh/imgs/2020/04/66be31951a2d8b2d.png)
+<img src="E:\Web-Prpjects\myComponents\images\toast.png" style="zoom:67%;" />
 
 
 

@@ -4,7 +4,7 @@
 
 
 
-<img src="E:\Web-Prpjects\myComponents\images\toast.png" style="zoom:67%;" />
+<img src="https://github.com/Galileo01/myComponents/blob/master/images/toast.png" style="zoom:67%;" />
 
 
 

@@ -20,7 +20,7 @@ v1.0.0
 
 1. $mymessage.success('666')  提示成功操作
 
-<img src="E:\Web-Prpjects\myComponents\images\mymessage.png" style="zoom:80%;" />
+<img src="https://github.com/Galileo01/myComponents/blob/master/images/mymessage.png" style="zoom:80%;" />
 
 2. $mymessage.danger('666') 显示危险信息   
 3. $mymessage.warning('666')  显示警告信息
